@@ -1,5 +1,5 @@
 db:
-  url: jdbc:mysql:localhost:3306/mysql/test1
+  url: jdbc:mysql:localhost:3306/mysql/test2
   username: root
   password: root
 foo: bar
