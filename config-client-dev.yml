@@ -2,6 +2,5 @@ db:
   url: jdbc:mysql:localhost:3306/mysql/test2
   username: root
   password: root
-db:
   connection: 200
 foo: bar
