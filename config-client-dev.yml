@@ -4,5 +4,3 @@ db:
   password: root
   connection: 200
 foo: bar
-db:
-  url: http://localhost:8080
