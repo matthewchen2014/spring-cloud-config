@@ -1,6 +1,6 @@
 db:
   url: jdbc:mysql:localhost:3306/mysql/test2
   username: root
-  password: root
+  password: {cipher}47308787683551e6c03fb49356427a80af294817a660b98b003bc8b752f977b2
   connection: 200
 foo: bar
